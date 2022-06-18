@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
+<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=didfodms&show_icons=true&theme=auto&line_height=30)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4 style="text-align:center;">💬 SNS 💬</h4>
