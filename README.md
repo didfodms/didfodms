@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=ReYang's%20GitHub&fontSize=60&animation=blink)
+<br>
 
 <h3 style="text-align:center">🔥 main tech 🔥</h3>
 <div class=container style="display:flex; justify-content : center; gap:20px;">
@@ -7,7 +8,9 @@
 <div class=container style="display:flex; justify-content : center; gap:10px;">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=black"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"><img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=black"><img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=black"><img src="https://img.shields.io/badge/snowpack-2E5E82?style=for-the-badge&logo=snowpack&logoColor=black">
 </div>
+
 <br>
+
 <h3 style="text-align:center;">🔅 sub tech 🔅</h3>
 <div class=container style="display:flex; justify-content : center; gap:10px;">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
@@ -19,6 +22,7 @@
 </div>
 
 <br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=didfodms&show_icons=true&theme=auto&line_height=30)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4 style="text-align:center;">💬 SNS 💬</h4>
