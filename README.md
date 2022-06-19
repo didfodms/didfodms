@@ -6,9 +6,7 @@
 <div class=container style="display:flex; justify-content : center; gap:20px; user-select:none;">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=black"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=black"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
-<div class=container style="display:flex; justify-content : center; gap:10px;">
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=black"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=black"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"><img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=black"><img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=black"><img src="https://img.shields.io/badge/snowpack-2E5E82?style=for-the-badge&logo=snowpack&logoColor=black">
-</div>
+
 
 <br>
 
@@ -21,6 +19,13 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=black">
 <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</div>
+
+<br>
+
+<h3 style="text-align:center;"> else.. </h3>
+<div class=container style="display:flex; justify-content : center; gap:10px;">
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=black"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=black"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"><img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=black"><img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=black"><img src="https://img.shields.io/badge/snowpack-2E5E82?style=for-the-badge&logo=snowpack&logoColor=black">
 </div>
 
 <br>
